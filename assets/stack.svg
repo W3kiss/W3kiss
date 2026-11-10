@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1050 150" width="1050" height="150"><g transform="translate(10,14)"><g><animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="4.00s" begin="-0.0s" repeatCount="indefinite"/>
+<rect width="110" height="110" rx="22" fill="#08080a" stroke="#fff" stroke-opacity=".16"/>
+<rect x="1" y="1" width="108" height="54" rx="21" fill="#fff" fill-opacity=".04"/>
+<text x="55" y="64" text-anchor="middle" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="34" font-weight="800" fill="#fff">Rs</text>
+<text x="55" y="94" text-anchor="middle" font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="12" fill="#a1a1aa">Rust</text></g></g><g transform="translate(140,14)"><g><animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="4.35s" begin="-0.6s" repeatCount="indefinite"/>
+<rect width="110" height="110" rx="22" fill="#08080a" stroke="#fff" stroke-opacity=".16"/>
+<rect x="1" y="1" width="108" height="54" rx="21" fill="#fff" fill-opacity=".04"/>
+<text x="55" y="64" text-anchor="middle" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="34" font-weight="800" fill="#fff">Ta</text>
+<text x="55" y="94" text-anchor="middle" font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="12" fill="#a1a1aa">Tauri</text></g></g><g transform="translate(270,14)"><g><animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="4.70s" begin="-1.2s" repeatCount="indefinite"/>
+<rect width="110" height="110" rx="22" fill="#08080a" stroke="#fff" stroke-opacity=".16"/>
+<rect x="1" y="1" width="108" height="54" rx="21" fill="#fff" fill-opacity=".04"/>
+<text x="55" y="64" text-anchor="middle" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="34" font-weight="800" fill="#fff">Sv</text>
+<text x="55" y="94" text-anchor="middle" font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="12" fill="#a1a1aa">Svelte</text></g></g><g transform="translate(400,14)"><g><animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="5.05s" begin="-1.8s" repeatCount="indefinite"/>
+<rect width="110" height="110" rx="22" fill="#08080a" stroke="#fff" stroke-opacity=".16"/>
+<rect x="1" y="1" width="108" height="54" rx="21" fill="#fff" fill-opacity=".04"/>
+<text x="55" y="64" text-anchor="middle" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="34" font-weight="800" fill="#fff">TS</text>
+<text x="55" y="94" text-anchor="middle" font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="12" fill="#a1a1aa">TypeScript</text></g></g><g transform="translate(530,14)"><g><animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="5.40s" begin="-2.4s" repeatCount="indefinite"/>
+<rect width="110" height="110" rx="22" fill="#08080a" stroke="#fff" stroke-opacity=".16"/>
+<rect x="1" y="1" width="108" height="54" rx="21" fill="#fff" fill-opacity=".04"/>
+<text x="55" y="64" text-anchor="middle" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="34" font-weight="800" fill="#fff">&gt;_</text>
+<text x="55" y="94" text-anchor="middle" font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="12" fill="#a1a1aa">PowerShell</text></g></g><g transform="translate(660,14)"><g><animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="5.75s" begin="-3.0s" repeatCount="indefinite"/>
+<rect width="110" height="110" rx="22" fill="#08080a" stroke="#fff" stroke-opacity=".16"/>
+<rect x="1" y="1" width="108" height="54" rx="21" fill="#fff" fill-opacity=".04"/>
+<text x="55" y="64" text-anchor="middle" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="34" font-weight="800" fill="#fff">Gt</text>
+<text x="55" y="94" text-anchor="middle" font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="12" fill="#a1a1aa">Git</text></g></g><g transform="translate(790,14)"><g><animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="6.10s" begin="-3.6s" repeatCount="indefinite"/>
+<rect width="110" height="110" rx="22" fill="#08080a" stroke="#fff" stroke-opacity=".16"/>
+<rect x="1" y="1" width="108" height="54" rx="21" fill="#fff" fill-opacity=".04"/>
+<text x="55" y="64" text-anchor="middle" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="34" font-weight="800" fill="#fff">Wn</text>
+<text x="55" y="94" text-anchor="middle" font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="12" fill="#a1a1aa">Windows</text></g></g><g transform="translate(920,14)"><g><animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="6.45s" begin="-4.2s" repeatCount="indefinite"/>
+<rect width="110" height="110" rx="22" fill="#08080a" stroke="#fff" stroke-opacity=".16"/>
+<rect x="1" y="1" width="108" height="54" rx="21" fill="#fff" fill-opacity=".04"/>
+<text x="55" y="64" text-anchor="middle" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="34" font-weight="800" fill="#fff">wg</text>
+<text x="55" y="94" text-anchor="middle" font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="12" fill="#a1a1aa">winget</text></g></g></svg>
