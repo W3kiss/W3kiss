@@ -31,4 +31,12 @@
 
 <img src="https://streak-stats.demolab.com?user=W3kiss&hide_border=true&border_radius=16&background=050505&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=A1A1AA&dates=71717A&stroke=27272A&locale=ru" width="720" alt="GitHub streak" />
 
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/W3kiss/W3kiss/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/W3kiss/W3kiss/output/pacman-contribution-graph.svg" />
+  <img src="https://raw.githubusercontent.com/W3kiss/W3kiss/output/pacman-contribution-graph-dark.svg" width="720" alt="Pac-Man ест график вкладов" />
+</picture>
+
 </div>
