@@ -24,6 +24,12 @@
 
 <br/><br/>
 
+<a href="https://github.com/W3kiss/fork_zapret">
+  <img src="assets/fork-zapret.svg" width="720" alt="Fork Zapret — лаунчер для zapret в стиле VPN" />
+</a>
+
+<br/><br/>
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=W3kiss&show_icons=true&hide_border=true&bg_color=050505&title_color=ffffff&text_color=a1a1aa&icon_color=ffffff&ring_color=ffffff&border_radius=16&locale=ru" alt="GitHub stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=W3kiss&layout=compact&hide_border=true&bg_color=050505&title_color=ffffff&text_color=a1a1aa&border_radius=16&locale=ru" alt="Top languages" />
 
